@@ -5,6 +5,6 @@ Udemy courses:
     - java 21 features for Virtual and Platform Threads
     - Executors
     - CompletableFeature
-    - Scoped values
+    - Scoped values, Structured
     - Srping application to practice virtual and platform threads
     - Jmeter to test scalability
